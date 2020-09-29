@@ -1,5 +1,5 @@
-# fg_logos_art
-A centralized collection of our logos and art materials that are used across our products and websites.
+# fg_branding
+A centralized collection of our branding materials that are used across our products and websites.
 
 ## Copyright/License
 
