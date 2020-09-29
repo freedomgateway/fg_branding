@@ -1,4 +1,4 @@
-![fg_logo](https://raw.githubusercontent.com/freedomgateway/fg_branding/master/fg_logo_gold.jpg)
+<img src="https://raw.githubusercontent.com/freedomgateway/fg_branding/master/fg_logo_gold.jpg" alt="drawing" width="200"/>
 # fg_branding
 ---
 A centralized collection of our branding materials that are used across our products and websites.
