@@ -1,8 +1,8 @@
--><img src="https://raw.githubusercontent.com/freedomgateway/fg_branding/master/fg_logo_gold.jpg" alt="drawing" width="250"/>-<
+<img src="https://raw.githubusercontent.com/freedomgateway/fg_branding/master/fg_logo_gold.jpg" alt="drawing" width="250"/>
 
-# ->fg_branding<-
+# <p style="text-align: center;">fg_branding</p>
 ---
-->A centralized collection of our branding materials that are used across our products and websites.<-
+<p style="text-align: center;">A centralized collection of our branding materials that are used across our products and websites.</p>
 
 ## Copyright/License
 
