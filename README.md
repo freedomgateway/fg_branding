@@ -1,4 +1,6 @@
+![fg_logo](https://raw.githubusercontent.com/freedomgateway/fg_branding/master/fg_logo_gold.jpg)
 # fg_branding
+---
 A centralized collection of our branding materials that are used across our products and websites.
 
 ## Copyright/License
